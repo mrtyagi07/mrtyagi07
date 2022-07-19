@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vaibhav Tyagi
 - 👀 I’m interested in Software Technology
-- 🌱 I’m currently learning J2EE
+- 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on LeetCode
 - 📫 How to reach me Mail ID- Vaibhavtyagi438@gmail.com
 
