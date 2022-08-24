@@ -5,16 +5,15 @@
 
 <p align="left"> <a href="https://twitter.com/mrtyagi07" target="blank"><img src="https://img.shields.io/twitter/follow/mrtyagi07?logo=twitter&style=for-the-badge" alt="mrtyagi07" /></a> </p>
 
-- 🔭 I’m currently working on **ASG Manager**
+- 🔭 I’m currently working on **Various Projects**
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 💬 Ask me about **HTML,CSS,JavaScript,DSA,J2EE**
+- 💬 Ask me about **HTML,CSS,JavaScript,DSA,Java,C++**
 
 - 📫 How to reach me **Vaibhavtyagi438@gmail.com**
 
-- 📄 Know about my experiences [Full Time Software Engineer in Wipro Working for Visa CyberSource](Full Time Software Engineer in Wipro Working for Visa CyberSource)
-
+- 📄 Know about my experiences [Full Time Software Engineer in Wipro Working for Visa CyberSource]
 - ⚡ Fun fact **Love to create Memes**
 
 <h3 align="left">Connect with me:</h3>
