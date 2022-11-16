@@ -13,7 +13,6 @@
 
 - 📫 How to reach me **Vaibhavtyagi438@gmail.com**
 
-- 📄 Know about my experiences [Full Time Software Engineer in Wipro Working for Visa CyberSource]
 - ⚡ Fun fact **Love to create Memes**
 
 <h3 align="left">Connect with me:</h3>
