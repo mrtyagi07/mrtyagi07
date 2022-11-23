@@ -1,7 +1,5 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Vaibhav Tyagi
-
-=====================================================================================================================================
-
+![](https://hips.hearstapps.com/digitalspyuk.cdnds.net/16/32/1470905211-computer-monkey-gif.gif)
+Hi My name is Vaibhav Tyagi
 
 
 I'm a front-end developer specializing in building (and occasionally designing) exceptional digital experiences. Currently, I'm focused on building responsive front-end web applications.
