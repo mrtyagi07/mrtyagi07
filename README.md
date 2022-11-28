@@ -1,6 +1,6 @@
 ![](https://media.tenor.com/2uyENRmiUt0AAAAM/coding.gif)
 
-Hi My name is Vaibhav Tyagi
+Hi! My name is Vaibhav Tyagi
 
 
 I'm a front-end developer specializing in building (and occasionally designing) exceptional digital experiences. Currently, I'm focused on building responsive front-end web applications.
