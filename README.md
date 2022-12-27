@@ -13,7 +13,7 @@ I'm a front-end developer specializing in building (and occasionally designing) 
 
 * ✉️  You can contact me at [Vaibhavtyagi438@gmail.com](mailto:Vaibhavtyagi438@gmail.com)
 
-* 🚀  I'm currently working on [Newsaly - where you can read daily news](http://github.com/mrtyagi07/Newsaly-Get-latest-News)
+* 🚀  I'm currently working on [STYLE HAVEN - Find your style, find your haven](https://github.com/mrtyagi07/Style-Haven)
 
 * 🧠  I'm learning MERN Stack
 
