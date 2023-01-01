@@ -3,21 +3,23 @@
 Hi! My name is Vaibhav Tyagi
 
 
-I'm a front-end developer specializing in building (and occasionally designing) exceptional digital experiences. Currently, I'm focused on building responsive front-end web applications.
+I am a full stack developer from India with a passion for creating innovative digital solutions. With my expertise in various programming languages and frameworks, I am able to build and deploy web and mobile applications that meet the specific needs of my clients. I am constantly striving to stay up-to-date with the latest technology and best practices in the industry, ensuring that my work is always of the highest quality. If you are looking for a full stack developer who can bring your ideas to life, I am here to help.
 
 
 
 * 🌍  I'm based in New Delhi, India
 
-* 🖥️  See my portfolio at [mrtyagi07.com](http://mrtyagi07.netlify.app/)
-
 * ✉️  You can contact me at [Vaibhavtyagi438@gmail.com](mailto:Vaibhavtyagi438@gmail.com)
 
 * 🚀  I'm currently working on [STYLE HAVEN - Find your style, find your haven](https://github.com/mrtyagi07/Style-Haven)
 
-* 🧠  I'm learning MERN Stack
+* 🧠  I'm learning Typescript
 
 * 🤝  I'm open to collaborating on Front-end and Data Structure and Algorithms
+
+* 💬 Ask me about HTML/CSS, JavaScript, React, Node
+
+* 📝 I regularly write articles on [Hashnode](https://www.buymeacoffee.com/mrtyagi07)
 
 
 
