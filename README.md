@@ -19,7 +19,7 @@ I am a full stack developer from India with a passion for creating innovative di
 
 * 💬 Ask me about HTML/CSS, JavaScript, React, Node
 
-* 📝 I regularly write articles on [Hashnode](https://www.buymeacoffee.com/mrtyagi07)
+* 📝 I regularly write articles on [Hashnode](https://vaibhavtyagi.hashnode.dev/)
 
 
 
