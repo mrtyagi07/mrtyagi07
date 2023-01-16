@@ -50,7 +50,6 @@ I am a full stack developer from India with a passion for creating innovative di
 ### Badges
 
 
-
 <b>My GitHub Stats</b>
 
 
