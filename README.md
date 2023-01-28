@@ -15,7 +15,7 @@ I am a full stack developer from India with a passion for creating innovative di
 
 * 🧠  I'm learning Typescript
 
-* 🤝  I'm open to collaborating on Front-end and Data Structure and Algorithms
+* 🤝  I'm open to collaborating on Front-end.
 
 * 💬 Ask me about HTML/CSS, JavaScript, React, Node
 
